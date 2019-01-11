@@ -1,1 +1,3 @@
-# frontend.2
+# Front End Web Page Design
+
+## Practicing landing pages
